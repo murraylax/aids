@@ -1,0 +1,8 @@
+We are pleased to submit our paper to Economic Inquiry.  The paper addresses an important issue about what can be done to reduce the spread of HIV/AIDS in Sub-Saharan Africa with a novel solution that involves changing incentives.  We find that a government for a poor under-developed country can effectively reduce risky sexual behavior and therefore effectively reduce the prevalence of HIV by providing life insurance benefits for premature deaths, contingent the death is not the result of AIDS.  We find the deterrence effect of life insurance can be similar to the reduction in risky behavior that would result if the government could drastically increasing income and increase life expectancy, something that is certainly impossible in the short-run.
+
+We think this research is appropriate for a general audience for three reasons: 1) our work crosses multiple lines of research including development economics, health economics, and public policy; 2) it concerns government policy's ability to alter incentives (a concept valued by all economists) to provide a unique solution to a widespread problem; and 3) while simulating the model involved numerical methods and some complicated computer programming, we use a straightforward modeling strategy of utility maximization subject to constraints that all your readers can be comfortable with.  
+
+We hope you find our paper interesting and we look forward to valuable feedback from your editors and/or referees.  Thank you for considering our submission.
+
+Pedro de Araujo
+James Murray
